@@ -6,4 +6,4 @@
 2. Miguel Gonzalez [@usuario git](https://github.com/MiguelGonzalez03)
 
 ## Sprint 1:
-![]()
+![](https://github.com/MiguelGonzalez03/SubirCMDgit/blob/master/Historia%20de%20Usuario.png)
