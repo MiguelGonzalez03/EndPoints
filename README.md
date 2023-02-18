@@ -6,4 +6,4 @@
 2. Miguel Gonzalez [@usuario git](https://github.com/MiguelGonzalez03)
 
 ## Sprint 1:
-![alt text]()
+![]()
