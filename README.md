@@ -7,7 +7,3 @@
 
 ## Sprint 1:
 
- Historia de Usuario ED 001 (Enlace o screenshot a la Historia)
-- Feature: Registro de Producto
-- Scenario: Registro de producto en la plataforma con código (nunca antes registrado)
-- Historia Técnica ED 002 (Enlace o screenshot a la Historia)
