@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-1. Manuel Diaz [@usuario git](https://github.com/manuel0585)
-2. Miguel Gonzalez [@usuario git](https://github.com/MiguelGonzalez03)
+1. Manuel Diaz [@manuel0585](https://github.com/manuel0585)
+2. Miguel Gonzalez [@MiguelGonzales033](https://github.com/MiguelGonzalez03)
 
 ## Sprint 1:
 - Historia de Usuario ED-001
