@@ -8,5 +8,4 @@
 ## Sprint 1:
 
 - Historia de Usuario ED 001 (Enlace o screenshot a la Historia)
-
 - Historia Técnica ED 002 (Enlace o screenshot a la Historia)
