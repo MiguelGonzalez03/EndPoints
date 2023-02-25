@@ -4,6 +4,7 @@
 
 1. Manuel Diaz [@manuel0585](https://github.com/manuel0585)
 2. Miguel Gonzalez [@MiguelGonzales033](https://github.com/MiguelGonzalez03)
+3. Misael Martinez [@Misael1125](https://github.com/Misael1125)
 
 ## Sprint 1:
 - Historia de Usuario ED-001
